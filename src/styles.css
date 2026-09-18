@@ -84,6 +84,11 @@
     overflow-x: hidden;
   }
 
+  section[id] {
+    scroll-margin-top: 5rem;
+  }
+
+
   h1,
   h2,
   h3,
